@@ -17,3 +17,5 @@ class Dog
   # call the Dog#name method
   puts odie.name
   # "Odie"
+
+  alternative

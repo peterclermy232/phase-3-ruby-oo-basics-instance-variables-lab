@@ -17,3 +17,11 @@ class Dog
   # call the Dog#name method
   puts odie.name
   # "Odie"
+
+  alternative
+
+  class Dog {}
+
+const odie = new Dog();
+odie.name = "Odie";
+console.log(odie.name);
